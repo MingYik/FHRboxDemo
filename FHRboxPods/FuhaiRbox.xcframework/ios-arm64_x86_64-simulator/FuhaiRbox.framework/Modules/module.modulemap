@@ -1,0 +1,4 @@
+framework module FuhaiRbox {
+  header "FuhaiRbox-Swift.h"
+  requires objc
+}
